@@ -1,5 +1,5 @@
 # Freeway Game
 
-For Final Conclusion
+#For Final Conclusion
 
-- Randomizar velocidade dos carros
+-Randomizar velocidade dos carros
